@@ -39,8 +39,8 @@ Classifications binaires : CN vs. MCI, CN vs. AD, MCI vs. AD.
 
 1. Clonez ce dépôt sur votre machine locale :
    ```bash
-   git clone https://github.com/votre-utilisateur/votre-depot.git](https://github.com/touXik/PFE_Master.git
-   
+   git clone https://github.com/touXik/PFE_Master.git
+  
 2. Exécutez les notebooks dans l'ordre suivant :
    organisation.ipynb
    filtrage_k_means.ipynb
